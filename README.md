@@ -14,3 +14,15 @@ Overall, this project demonstrates the integration of **computer vision** and **
 In conclusion, this project highlights how cloud-based AI can augment traditional computer vision pipelines to provide not only object recognition but also meaningful context, enabling machines to “interpret” visual data in a way that is closer to human understanding.
 
 <img width="1603" height="937" alt="image" src="https://github.com/user-attachments/assets/b07fac75-9acd-4cfa-8232-4f51e1919759" />
+
+**OUTPUT**
+
+building
+minaret
+mosque dome
+car
+motorcycle
+street
+road
+sky
+An elevated view of a city street scene featuring multi-story residential buildings, parked cars, and a prominent mosque with a minaret and dome on the right side.

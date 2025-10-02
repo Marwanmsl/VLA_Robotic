@@ -17,12 +17,15 @@ In conclusion, this project highlights how cloud-based AI can augment traditiona
 
 **OUTPUT**
 
-building
-minaret
-mosque dome
-car
-motorcycle
-street
-road
-sky
+**Objects**
+1.building
+2.minaret
+3.mosque dome
+4.car
+5.motorcycle
+6.street
+7.road
+8.sky
+
+**Scenario **
 An elevated view of a city street scene featuring multi-story residential buildings, parked cars, and a prominent mosque with a minaret and dome on the right side.

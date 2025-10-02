@@ -6,7 +6,7 @@ from PIL import Image
 import json
 
 # Set your API key
-os.environ["GOOGLE_API_KEY"] = "AIzaSyAxiwo3RgobEOKn6EYE8T65Vry9dfRYbW0"
+os.environ["GOOGLE_API_KEY"] = "APIkey"
 
 # Initialize client
 client = genai.Client()
@@ -84,3 +84,4 @@ while True:
 
 cap.release()
 cv2.destroyAllWindows()
+

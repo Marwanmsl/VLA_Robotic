@@ -29,3 +29,9 @@ In conclusion, this project highlights how cloud-based AI can augment traditiona
 
 **Scenario **
 An elevated view of a city street scene featuring multi-story residential buildings, parked cars, and a prominent mosque with a minaret and dome on the right side.
+
+**Video Output**
+
+
+https://github.com/user-attachments/assets/760c5296-2a25-4113-98e5-684a7af47977
+

@@ -1,9 +1,12 @@
 import os
 import cv2
 from google import genai
+import tkinter as tk
 from google.genai import types
-from PIL import Image
+from PIL import Image, ImageTk
 import json
+import time
+import threading
 
 # Set your API key
 os.environ["GOOGLE_API_KEY"] = "APIkey"
@@ -107,3 +110,4 @@ def update_frame():
 update_frame()
 root.mainloop()
 cap.release()
+
